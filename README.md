@@ -24,7 +24,7 @@ Dự án Facial Expression Recognition (FER) là một hệ thống nhận diệ
     pip install -r requirements.txt
     ```
 
-4. **Chạy**: Chạy file `main.py` để bắt đầu sử dụng hệ thống nhận diện biểu cảm trên khuôn mặt.
+4. **Chạy**: Chạy file `demo.py` để bắt đầu sử dụng hệ thống nhận diện biểu cảm trên khuôn mặt.
 
 ### Sử dụng
 
